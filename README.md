@@ -1,5 +1,6 @@
 # Password-Generator
 Random Password Generator
+https://gerryraldo.github.io/Password-Generator/
 ![HomePage.img](./Screenshots/Home.PNG)
 The goal of the RPG is to make a random password after prompting the user.
 The prompts are the following
